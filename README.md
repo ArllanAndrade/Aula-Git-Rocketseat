@@ -35,4 +35,4 @@ https://git-scm.com/download
 * `git merge` // unir linhas do tempo
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone` // clonar um projeto / repositório
-* `git pull` // puxa do repositório remoto
+* `git pull` // puxa do repositório remoto...fim
